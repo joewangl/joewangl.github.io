@@ -1,0 +1,86 @@
+.index-main .article {
+  width: 960px;
+  padding: 20px;
+  background-color: white;
+  margin: 20px auto 50px auto;
+  border-top: 5px solid #c5558b;
+}
+.index-main .article .pos-ad {
+  height: 20px;
+  line-height: 20px;
+  font-size: 12px;
+  color: #9c9c9c;
+}
+.index-main .article .pos-ad a {
+  font-size: 12px;
+  color: #9c9c9c;
+}
+.index-main .article .art-title {
+  color: #c5558b;
+  font-size: 24px;
+  text-align: center;
+  border-bottom: 1px solid #c8c8c8;
+  line-height: 40px;
+  margin-top: 20px;
+}
+.index-main .article .art-control {
+  height: 40px;
+  width: 500px;
+  margin: 0 auto;
+  color: #9c9c9c;
+  font-size: 12px;
+  line-height: 40px;
+}
+.index-main .article .art-control span {
+  cursor: pointer;
+}
+.index-main .article .art-control .color-chose {
+  width: 10px;
+  height: 10px;
+  border: 1px solid #666666;
+  float: right;
+  cursor: pointer;
+  margin-top: 14px;
+  margin-left: 6px;
+}
+.index-main .article .fn-1 {
+  font-size: 16px;
+  line-height: 30px;
+}
+.index-main .article .fn-0 {
+  font-size: 12px;
+  line-height: 25px;
+}
+.index-main .article .fn-2 {
+  font-size: 20px;
+  line-height: 35px;
+}
+.index-main .article .art-next {
+  font-size: 14px;
+  color: #333;
+}
+.index-main .article .art-next a {
+  font-size: 14px;
+  color: #333;
+}
+.index-main .article .art-next a:hover {
+  color: red;
+}
+.index-main .article .share {
+  height: 30px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+.index-main .article .share a {
+  float: right;
+}
+.index-main .article .friend-info {
+  height: 40px;
+  color: #d82416;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 40px;
+  border-top: 2px solid #c41710;
+  border-bottom: 1px solid #f2f2f2;
+  margin-top: 10px;
+}
